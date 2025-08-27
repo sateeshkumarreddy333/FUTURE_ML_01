@@ -30,14 +30,13 @@ Retail_Sales_Forecasting.pbix → Power BI dashboard file (download and open in 
 
 README.md → Documentation of this project.
 
-screenshots/ → Folder containing dashboard preview images.
+Retail sales forecasting dashboard → Folder containing dashboard preview images.
 
 📊 Dashboard Preview
 Sales Forecast vs Actuals
 
 Variance KPIs
 
-(Add your own screenshots in the screenshots/ folder so they appear here.)
 
 🔗 Dataset Source
 
